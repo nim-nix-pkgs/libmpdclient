@@ -1,5 +1,5 @@
 {
-  description = ''Bindings for the Music Player Daemon C client library'';
+  description = ''Bindings to Music Player Daemon client library'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
@@ -9,7 +9,7 @@
   
   inputs.src-libmpdclient-master.flake = false;
   inputs.src-libmpdclient-master.owner = "lompik";
-  inputs.src-libmpdclient-master.ref   = "refs/heads/master";
+  inputs.src-libmpdclient-master.ref   = "master";
   inputs.src-libmpdclient-master.repo  = "libmpdclient.nim";
   inputs.src-libmpdclient-master.type  = "github";
   
