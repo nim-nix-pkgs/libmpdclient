@@ -11,6 +11,7 @@
   inputs.src-libmpdclient-master.ref   = "refs/heads/master";
   inputs.src-libmpdclient-master.owner = "lompik";
   inputs.src-libmpdclient-master.repo  = "libmpdclient.nim";
+  inputs.src-libmpdclient-master.dir   = "";
   inputs.src-libmpdclient-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
