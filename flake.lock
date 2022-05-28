@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653689851,
-        "narHash": "sha256-2e9vok0DNczS2T27rLIsbaJhTJ9wDxKT+AYQBBjiM6Q=",
+        "lastModified": 1653696453,
+        "narHash": "sha256-BT/KkIiki6M+SNxwhMFLnZpsLBXR5/3Hs7FFsMFspqw=",
         "owner": "nim-nix-pkgs",
         "repo": "libmpdclient",
-        "rev": "2e6fb4712d23496b8c726e9ede1712a4c95cc427",
+        "rev": "83a2b52e6990e1ca76e16e5922c1a481f61ce240",
         "type": "github"
       },
       "original": {
