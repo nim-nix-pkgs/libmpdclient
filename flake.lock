@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662254574,
-        "narHash": "sha256-xREAmK/bnbMoaahQBDkJm0Rird1OrlqJZn4vnBTyJnM=",
+        "lastModified": 1667322394,
+        "narHash": "sha256-B6Sb6o+8sJQJ6yORuYKs+ABC3pUafthlrulTODAToaY=",
         "owner": "nim-nix-pkgs",
         "repo": "libmpdclient",
-        "rev": "5c5b6912c9938797f7501257ff0230b05a6d779c",
+        "rev": "8e5b431bc80e0fcb303f3e1317d5ccc11c9d2455",
         "type": "github"
       },
       "original": {
@@ -50,11 +50,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
